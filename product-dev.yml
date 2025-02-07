@@ -1,6 +1,10 @@
 product:
   property: product dev
 
+spring:
+  application:
+    name: product
+
 
 data:
     mongodb:

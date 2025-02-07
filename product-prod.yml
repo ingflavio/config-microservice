@@ -2,6 +2,10 @@ spring:
   application:
     name: product
 
+
+product:
+  property: product prod
+
   data:
     mongodb:
       uri: mongodb://localhost:27017/productdb
