@@ -6,6 +6,7 @@ spring:
     name: product
 
 
+
 data:
     mongodb:
       uri: mongodb://localhost:27017/productdb
@@ -26,3 +27,6 @@ springdoc:
     path: /swagger-ui.html
     operationsSorter: method
     tagsSorter: alpha
+
+app:
+  config: "Primera Configuracion escritas antes de la ejecucion"
