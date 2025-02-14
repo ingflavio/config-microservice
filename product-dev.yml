@@ -29,4 +29,4 @@ springdoc:
     tagsSorter: alpha
 
 app:
-  config: "Primera Configuracion escritas antes de la ejecucion"
+  config: "Segunda Configuracion escritas despues de la ejecucion"
