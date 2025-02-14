@@ -35,4 +35,4 @@ springdoc:
     tagsSorter: alpha
 
 app:
-  config: "Segunda Configuracion escritas despues de la ejecucion"
+  config: "Tercera Configuracion escritas despues de la ejecucion"
