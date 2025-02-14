@@ -20,6 +20,12 @@ eureka:
       instance-id:  ${spring.application.name}:${random.uuid}
 
 
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *
+
 springdoc:
   api-docs:
     path: /v3/api-docs
