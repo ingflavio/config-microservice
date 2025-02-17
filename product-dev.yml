@@ -26,7 +26,6 @@ management:
         include: '*'
 
 
-
 springdoc:
   api-docs:
     path: /v3/api-docs
