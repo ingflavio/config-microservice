@@ -1,5 +1,4 @@
-product:
-  property: product dev
+
 
 spring:
   application:
