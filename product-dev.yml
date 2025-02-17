@@ -19,21 +19,11 @@ eureka:
 
 management:
   endpoints:
+    env:
+      show-values: ALWAYS
     web:
       exposure:
         include: '*'
-  endpoint:
-    restart:
-      enabled: 'true'
-    env:
-      post:
-        enabled: 'true'
-  security:
-    enabled: 'false '
-endpoints:
-  sensitive: 'true'
-  actuator:
-    enabled: 'true'
 
 
 
@@ -45,4 +35,5 @@ springdoc:
     operationsSorter: method
     tagsSorter: alpha
 
-appconfig: 'quitan Configuracion escritas despues de la ejecucion 2122'
+app:
+  config: "quitan Configuracion escritas despues de la ejecucion 25"
