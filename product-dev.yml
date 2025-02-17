@@ -33,4 +33,4 @@ springdoc:
     tagsSorter: alpha
 
 app:
-  config: "quitan Configuracion escritas despues de la ejecucion"
+  config: "quitan Configuracion escritas despues de la ejecucion 1 "
