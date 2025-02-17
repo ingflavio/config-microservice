@@ -35,5 +35,4 @@ springdoc:
     operationsSorter: method
     tagsSorter: alpha
 
-app:
-  config: "quitan Configuracion escritas despues de la ejecucion 25"
+appconfig: "quitan Configuracion escritas despues de la ejecucion 25"
