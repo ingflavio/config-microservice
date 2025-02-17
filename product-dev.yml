@@ -1,5 +1,5 @@
 product:
-  property: product dev
+  property: product Profile dev
 
 spring:
   application:
