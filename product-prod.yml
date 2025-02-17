@@ -26,3 +26,14 @@ springdoc:
     path: /swagger-ui.html
     operationsSorter: method
     tagsSorter: alpha
+
+
+management:
+  endpoints:
+    env:
+      show-values: ALWAYS
+    web:
+      exposure:
+        include: '*'
+
+appconfig: "quitan Configuracion escritas despues de la ejecucion 255"
