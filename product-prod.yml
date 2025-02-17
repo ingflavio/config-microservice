@@ -35,5 +35,3 @@ management:
     web:
       exposure:
         include: '*'
-
-appconfig: "quitan Configuracion escritas despues de la ejecucion 255"
