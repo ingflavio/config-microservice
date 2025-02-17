@@ -5,12 +5,9 @@ spring:
   application:
     name: product
 
-
-
 data:
     mongodb:
       uri: mongodb://localhost:27017/productdb
-
 
 server:
   port: 0
@@ -24,7 +21,8 @@ management:
   endpoints:
     web:
       exposure:
-        include: "*"
+        include: '*'
+
 
 springdoc:
   api-docs:
